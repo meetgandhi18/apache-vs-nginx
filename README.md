@@ -34,9 +34,8 @@ Event -> hybrid
 
 👉 If 10,000 users come → 10,000 threads/processes created (C10K Problem)
 
-```
 ➡️ Server becomes heavy
-```
+
 
 ## ⚡ Nginx Performance
 
@@ -57,9 +56,7 @@ Event -> hybrid
 
 👉 1000 users → handled by few worker processes
 
-```
 ➡️ No overload
-```
 
 ### 📊 Real-World Impact
 
