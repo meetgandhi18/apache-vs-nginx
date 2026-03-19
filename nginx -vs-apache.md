@@ -2,13 +2,9 @@
 
 ### 🧠 Core Idea
 
-```
 Performance mainly depends on how the server handles requests internally.
-```
 
-```
 There are two different architectures:
-```
 
 - Apache → Process / Thread-Based
 - Nginx → Event-Driven
